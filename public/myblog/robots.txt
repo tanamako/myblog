@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://tanamako.github.io/myblog/sitemap.xml 

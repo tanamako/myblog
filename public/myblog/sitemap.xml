@@ -1,11 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://tanamako.github.io/myblog/blog/2013/06/15/tywin-lannister-quote/</loc>
+        <lastmod>2013-12-09T00:52:12+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://tanamako.github.io/myblog/blog/2013/12/01/github-jekyll/</loc>
-        <lastmod>2013-12-01T12:42:31+09:00</lastmod>
+        <lastmod>2013-12-09T00:52:12+09:00</lastmod>
     </url>
     <url>
         <loc>http://tanamako.github.io/myblog/blog/2013/12/08/post-title/</loc>
-        <lastmod>2013-12-09T00:47:42+09:00</lastmod>
+        <lastmod>2013-12-09T01:36:28+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tanamako.github.io/myblog/404.html</loc>
+        <lastmod>2013-12-09T00:52:12+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tanamako.github.io/myblog/blog/archives/</loc>
+        <lastmod>2013-12-09T01:36:28+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tanamako.github.io/myblog/blog/</loc>
+        <lastmod>2013-12-09T01:36:28+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tanamako.github.io/myblog/</loc>
+        <lastmod>2013-12-09T01:36:28+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tanamako.github.io/myblog/robots.txt</loc>
+        <lastmod>2013-12-09T00:52:12+09:00</lastmod>
     </url>
 </urlset>

@@ -1,0 +1,5 @@
+static const char*
+left_trim(const char* str) {
+  while (*str && isspace(*str)) ++str;
+  return *str ? str : NULL;
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://tanamako.github.io/myblog/atom.xml" rel="self"/>
+  <link href="http://tanamako.github.io/myblog/"/>
+  <updated>2013-12-09T01:36:44+09:00</updated>
+  <id>http://tanamako.github.io/myblog/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://tanamako.github.io/myblog/blog/2013/12/08/post-title/"/>
+    <updated>2013-12-08T23:02:26+09:00</updated>
+    <id>http://tanamako.github.io/myblog/blog/2013/12/08/post-title</id>
+    <content type="html"><![CDATA[<h1>Website for bookmarks</h1>
+
+<p>今年のAdventCalendar2013の有名なもの
+<a href="http://qiita.com/advent-calendar/2013">http://qiita.com/advent-calendar/2013</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://qiita.com/advent-calendar/2013/ruby-on-rails  ">http://qiita.com/advent-calendar/2013/ruby-on-rails  </a>
+<a href="http://qiita.com/advent-calendar/2013/ruby">http://qiita.com/advent-calendar/2013/ruby</a></p>
+
+<p>パーフェクトRuby Advent Calendar 2013<br/>
+<a href="http://www.adventar.org/calendars/198">http://www.adventar.org/calendars/198</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://qiita.com/advent-calendar/2013/javascript">http://qiita.com/advent-calendar/2013/javascript</a></p>
+
+<p>Node.js Advent Calendar 2013<br/>
+<a href="http://www.adventar.org/calendars/56">http://www.adventar.org/calendars/56</a></p>
+
+<p>Backbone.Marionette Advent Calendar 2013<br/>
+<a href="http://www.adventar.org/calendars/261">http://www.adventar.org/calendars/261</a></p>
+
+<p>jQuery Advent Calendar 2013<br/>
+<a href="http://www.adventar.org/calendars/135">http://www.adventar.org/calendars/135</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[githubとjekyllとoctopressで作るブログ]]></title>
+    <link href="http://tanamako.github.io/myblog/blog/2013/12/01/github-jekyll/"/>
+    <updated>2013-12-01T05:59:00+09:00</updated>
+    <id>http://tanamako.github.io/myblog/blog/2013/12/01/github-jekyll</id>
+    <content type="html"><![CDATA[<p>便利すぎる&hellip;</p>
+
+<div><script src='https://gist.github.com/1292428.js'></script>
+<noscript><pre><code>static const char*
+left_trim(const char* str) {
+  while (*str &amp;&amp; isspace(*str)) ++str;
+  return *str ? str : NULL;
+}
+</code></pre></noscript></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tywin Lannister Quote]]></title>
+    <link href="http://tanamako.github.io/myblog/blog/2013/06/15/tywin-lannister-quote/"/>
+    <updated>2013-06-15T09:28:00+09:00</updated>
+    <id>http://tanamako.github.io/myblog/blog/2013/06/15/tywin-lannister-quote</id>
+    <content type="html"><![CDATA[<p>A nice quote by Tywin Lannister taken from <em>A Storm of Sword</em> book.</p>
+
+<blockquote><p>The greatest fools are ofttimes more clever then the men who laugh at them.</p><footer><strong>Tywin Lannister</strong> <cite>A Storm of Swords</cite></footer></blockquote>
+
+]]></content>
+  </entry>
+  
+</feed>
