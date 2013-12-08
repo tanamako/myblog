@@ -11,15 +11,15 @@ categories:
 http://qiita.com/advent-calendar/2013
 
 ## 個人的な興味のあるもの
-http://qiita.com/advent-calendar/2013/ruby-on-rails
-http://qiita.com/advent-calendar/2013/javascript
-http://qiita.com/advent-calendar/2013/ruby
+http://qiita.com/advent-calendar/2013/ruby-on-rails  
+http://qiita.com/advent-calendar/2013/javascript  
+http://qiita.com/advent-calendar/2013/ruby  
 
-Node.js Advent Calendar 2013
+Node.js Advent Calendar 2013  
 http://www.adventar.org/calendars/56
 
-Backbone.Marionette Advent Calendar 2013
+Backbone.Marionette Advent Calendar 2013  
 http://www.adventar.org/calendars/261
 
-jQuery Advent Calendar 2013
+jQuery Advent Calendar 2013  
 http://www.adventar.org/calendars/135
