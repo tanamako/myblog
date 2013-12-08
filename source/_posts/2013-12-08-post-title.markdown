@@ -14,6 +14,9 @@ http://qiita.com/advent-calendar/2013
 http://qiita.com/advent-calendar/2013/ruby-on-rails  
 http://qiita.com/advent-calendar/2013/ruby  
 
+パーフェクトRuby Advent Calendar 2013  
+http://www.adventar.org/calendars/198
+
 ## JavaScript
 http://qiita.com/advent-calendar/2013/javascript  
 
