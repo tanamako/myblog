@@ -7,10 +7,10 @@ categories:
 ---
 
 # Website for bookmarks
-今年のAdventCalendar2013の有名なもの
+今年のAdventCalendar2013の有名なもの  
 http://qiita.com/advent-calendar/2013
 
 ## 個人的な興味のあるもの
-http://qiita.com/advent-calendar/2013/ruby-on-rails
-http://qiita.com/advent-calendar/2013/javascript
+http://qiita.com/advent-calendar/2013/ruby-on-rails  
+http://qiita.com/advent-calendar/2013/javascript  
 http://qiita.com/advent-calendar/2013/ruby
